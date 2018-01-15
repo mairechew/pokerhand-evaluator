@@ -1,0 +1,24 @@
+{
+  "name": "pokerhand-evaluator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mairechew/pokerhand-evaluator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mairechew/pokerhand-evaluator/issues"
+  },
+  "homepage": "https://github.com/mairechew/pokerhand-evaluator#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.1.0"
+  }
+}
